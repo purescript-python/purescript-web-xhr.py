@@ -1,0 +1,10 @@
+_xmlHttpRequest = lambda _: None
+_abort = lambda _: None
+_getAllResponseHeaders = lambda _: {}
+_getResponseHeader = lambda _, __: None
+_open = lambda a, b, c, d, e: None
+_overrideMimeType = lambda a, b: None
+_send = lambda a, b: None
+_setRequestHeader = lambda a, b, c: None
+_setProperty = lambda a, b, c: None
+_getProperty = lambda a, b: None
